@@ -21,13 +21,12 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 - Fornecer métricas e relatórios para apoio à gestão da clínica;
 - Garantir maior controle e segurança no acesso aos dados dos pacientes.
 
----
+
 
 ## 🎨 Acesso ao Projeto
 
 👉 **[Acessar o protótipo no Figma](https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Prot%C3%B3tipo-Odonto-Unicatolica?node-id=0-1&t=0icEenKNHZ6YhPfX-1)**
 
----
 
 ## ⚙️ Principais Funcionalidades
 
