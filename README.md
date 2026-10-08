@@ -8,7 +8,7 @@ A plataforma tem como objetivo **centralizar o atendimento, a distribuição de 
 
 Além disso, o sistema busca contribuir para a redução de faltas, melhor utilização das vagas da clínica, rastreabilidade dos procedimentos acadêmicos e proteção dos dados sensíveis dos pacientes, em conformidade com a **LGPD**.
 
----
+
 
 ## 🎯 Objetivos
 
