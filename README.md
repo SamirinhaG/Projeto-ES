@@ -23,6 +23,12 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 
 ---
 
+## 🎨 Acesso ao Projeto
+
+👉 **[Acessar o protótipo no Figma](https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Prot%C3%B3tipo-Odonto-Unicatolica?node-id=0-1&t=0icEenKNHZ6YhPfX-1)**
+
+---
+
 ## ⚙️ Principais Funcionalidades
 
 ### 👤 Pacientes
@@ -84,12 +90,6 @@ O projeto utiliza uma arquitetura **Cliente-Servidor (Client-Server)** desacopla
 
 ---
 
-## 🎨 Protótipo e Design
-
-👉 **[Acessar o protótipo no Figma](https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Prot%C3%B3tipo-Odonto-Unicatolica?node-id=0-1&t=0icEenKNHZ6YhPfX-1)**
-
----
-
 ## 👥 Equipe
 
 - **Samira Gomes Donato**
@@ -104,11 +104,3 @@ O projeto utiliza uma arquitetura **Cliente-Servidor (Client-Server)** desacopla
 ## 🏫 Instituição
 
 **UniCatólica — Centro Universitário Católica do Ceará**
-
----
-
-## 📌 Status do Projeto
-
-🚧 **Em desenvolvimento**
-
-O projeto está sendo desenvolvido com foco na centralização dos processos de atendimento odontológico, distribuição de pacientes, acompanhamento acadêmico e gestão da clínica.
