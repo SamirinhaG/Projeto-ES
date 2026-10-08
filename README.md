@@ -25,3 +25,6 @@ Linguagens: Java (17+), JavaScript (ES6+), HTML5, CSS3 e SQL.
 Frameworks Backend: Spring Boot, Spring Security (autenticação JWT e bcrypt) e Spring Data JPA.
 Frameworks Frontend: React.js (ou Vue.js) e Tailwind CSS (ou Bootstrap).
 Banco de Dados**: PostgreSQL.
+
+Link para o design direto no FIGMA:
+https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Sem-t%C3%ADtulo?node-id=0-1&t=0icEenKNHZ6YhPfX-1
