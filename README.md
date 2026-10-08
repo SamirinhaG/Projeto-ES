@@ -92,7 +92,6 @@ O projeto utiliza uma arquitetura **Cliente-Servidor (Client-Server)** desacopla
 - **Samira Gomes Donato**
 - **Grazielly Lima Souza**
 - **Thalisson Gesian Perdigão Rocha**
-- **Luna Ayla Souza Bezerra**
 - **Levy Cauê Rodrigues Nascimento**
 - **Mylena Vieira Araújo**
 
