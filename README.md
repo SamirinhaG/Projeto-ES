@@ -8,7 +8,7 @@ A plataforma tem como objetivo **centralizar o atendimento, a distribuição de 
 
 Além disso, o sistema busca contribuir para a redução de faltas, melhor utilização das vagas da clínica, rastreabilidade dos procedimentos acadêmicos e proteção dos dados sensíveis dos pacientes, em conformidade com a **LGPD**.
 
-
+---
 
 ## 🎯 Objetivos
 
@@ -21,12 +21,13 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 - Fornecer métricas e relatórios para apoio à gestão da clínica;
 - Garantir maior controle e segurança no acesso aos dados dos pacientes.
 
-
+---
 
 ## 🎨 Acesso ao Projeto
 
 👉 **[Acessar o protótipo no Figma](https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Prot%C3%B3tipo-Odonto-Unicatolica?node-id=0-1&t=0icEenKNHZ6YhPfX-1)**
 
+---
 
 ## ⚙️ Principais Funcionalidades
 
@@ -103,3 +104,5 @@ O projeto utiliza uma arquitetura **Cliente-Servidor (Client-Server)** desacopla
 ## 🏫 Instituição
 
 **UniCatólica — Centro Universitário Católica do Ceará**
+
+---
