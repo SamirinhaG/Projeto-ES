@@ -27,4 +27,4 @@ Frameworks Frontend: React.js (ou Vue.js) e Tailwind CSS (ou Bootstrap).
 Banco de Dados**: PostgreSQL.
 
 Link para o design direto no FIGMA:
-https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Sem-t%C3%ADtulo?node-id=0-1&t=0icEenKNHZ6YhPfX-1
+https://www.figma.com/design/K835WNYGJT3DHT3yauWRfr/Prot%C3%B3tipo-Odonto-Unicatolica?node-id=0-1&t=0icEenKNHZ6YhPfX-1
