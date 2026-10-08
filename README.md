@@ -83,10 +83,10 @@ O projeto utiliza uma arquitetura **Cliente-Servidor (Client-Server)** desacopla
 
 ## 💻 Tecnologias
 
-* *Linguagens*: Java (17+), JavaScript (ES6+), HTML5, CSS3 e SQL.
-* *Frameworks Backend*: Spring Boot, Spring Security (autenticação JWT e bcrypt) e Spring Data JPA
-* *Frameworks Frontend*: React.js (ou Vue.js) e Tailwind CSS (ou Bootstrap)
-* *Banco de Dados*: PostgreSQL
+**Linguagens**: Java (17+), JavaScript (ES6+), HTML5, CSS3 e SQL.
+**Frameworks Backend**: Spring Boot, Spring Security (autenticação JWT e bcrypt) e Spring Data JPA
+**Frameworks Frontend**: React.js (ou Vue.js) e Tailwind CSS (ou Bootstrap)
+**Banco de Dados**: PostgreSQL
 
 ---
 
