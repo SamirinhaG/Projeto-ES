@@ -37,7 +37,6 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 - Visualização de horários e turnos de atendimento;
 - Acesso ao sistema após realização da triagem presencial;
 - Confirmação ou cancelamento de consultas;
-- Recebimento de notificações sobre consultas, cancelamentos e remarcações via WhatsApp.
 
 ### 🎓 Alunos
 
@@ -51,7 +50,6 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 ### 🏥 Recepção / Secretaria
 
 - Triagem e cadastro inicial de pacientes;
-- Definição do nível de urgência/prioridade;
 - Gerenciamento da fila de espera;
 - Agendamento, cancelamento e remarcação de consultas;
 - Aprovação das solicitações realizadas pelos alunos;
@@ -65,7 +63,6 @@ Além disso, o sistema busca contribuir para a redução de faltas, melhor utili
 - Relatórios demográficos e clínicos;
 - Relatórios de procedimentos com maior demanda;
 - Acompanhamento do desempenho de alunos e turmas;
-- Indicadores do tempo médio de espera dos pacientes;
 - Relatórios de satisfação dos pacientes.
   
 ---
